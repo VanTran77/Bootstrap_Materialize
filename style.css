@@ -1,0 +1,18 @@
+body{
+    width: 80%;
+    margin: auto;
+}
+
+.image-container{
+    text-align: center;
+}
+
+body > div > img {
+    width: 100%;
+    /* text-align: center; */
+    margin-bottom: 20px;
+}
+
+#main-footer{
+    text-align:center;
+}
